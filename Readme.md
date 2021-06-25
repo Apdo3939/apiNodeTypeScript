@@ -47,3 +47,7 @@ Instalar as bibliotecas para criptografar senhas no banco de dados:
 
 Instalar as bibliotecas referente ao class-transformer(customização da classe)
 ### yarn add class-transformer
+
+Instalar as bibliotecas referente ao cors (Para permitir acesso através de um front-end)
+### yarn add cors
+### yarn add @types/cors -D
